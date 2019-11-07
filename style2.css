@@ -1,0 +1,53 @@
+body
+{
+margin:40px 350px 40px 350px;
+background-color:magenta;
+}
+#bloc1
+{margin:1em 1em 1em 40px;
+
+}
+#bloc
+{border-bottom:2px solid black;}
+p
+{
+    font: courier;
+    font-size: 1.2em;
+    color: blue;
+}
+h1
+{
+    font-size: 2.1em;
+    color: green;
+    font: Comic Sans; 
+
+}
+h2
+{
+    font-size: 1.8em;
+    color: green;
+    font: Comic Sans;
+}
+h3
+{
+    font-size: 1.6em;
+    color: green;
+font: Comic Sans;
+
+}
+h4
+{
+    font-size: 1.2em;
+    color: green;
+font: Comic Sans;
+ 
+}
+ul
+{font-size: 1.2em;
+color: blue;
+font: courier;
+
+
+}
+
+
